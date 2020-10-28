@@ -1,0 +1,10 @@
+package WTInterp
+
+modules = WTInterp
+depends = contrib, idris2
+
+sourcedir = ""
+
+version = "0.0.1"
+main = WTInterp
+executable = WTInterp

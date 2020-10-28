@@ -1,0 +1,17 @@
+ns="WellTypedInterpeter"
+package="WTInterp"
+version="0.0.1"
+
+description=""
+link=""
+readme=""
+modules=["WTInterp"]
+depends=["idris2", "contrib"]
+license=""
+main="WTInterp"
+executable="WTInterp"
+
+[deps]
+
+[dev-deps]
+Base.IdrTest="~0.0.1"
